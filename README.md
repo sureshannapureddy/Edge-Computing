@@ -10,6 +10,9 @@ Edge computing can also benefit remote office/branch office (ROBO) environments 
 
 A major benefit of edge computing is that it improves time to action and reduces response time down to milliseconds, while also conserving network resources. The concept of edge computing is not expected to replace cloud computing, however. Despite its ability to reduce latency and network bottlenecks, edge computing can pose significant security, licensing and configuration challenges.
 
+![image](https://user-images.githubusercontent.com/22645009/27769534-46e18600-5f2c-11e7-9cfd-77a438825b57.png)
+
+
 Security challenges: Edge computing's distributed architecture increases the number of attack vectors. The more intelligence an edge client has, the more vulnerable it becomes to malware infections and security exploits.
 
 Licensing challenges: Smart clients can have hidden licensing costs. While the base version of an edge client might initially have a low ticket price, additional functionalities may be licensed separately and drive the price up.
