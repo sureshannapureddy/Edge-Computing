@@ -21,6 +21,6 @@ Configuration challenges: Unless device management is centralized and robust, ad
 
 The name "edge" in edge computing is derived from network diagrams; typically, the edge in a network diagram signifies the point at which traffic enters or exits the network. The edge is also the point at which the underlying protocol for transporting data may change. For example, a smart sensor might use a low-latency protocol like MQTT to transmit data to a message broker located on the network edge, and the broker would use the hypertext transfer protocol (HTTP) to transmit valuable data from the sensor to a remote server over the Internet.
 
-The OpenFog consortium uses the term fog computing to describe edge computing. The word "fog" is meant to convey the idea that the advantages of cloud computing should be brought closer to the data source.(In meteorology, fog is simply a cloud that is close to the ground)
+The OpenFog consortium uses the term fog computing to describe edge computing. The word "fog" is meant to convey the idea that the advantages of cloud computing should be brought closer to the data source. (In meteorology, fog is simply a cloud that is close to the ground)
 
 
