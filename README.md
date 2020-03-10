@@ -1,4 +1,4 @@
-# Edge-Computing
+# Edge Computing
 
 Defenition : Simply we can say method of optimising cloud computing systems by performing data processing at the edge of the network, near the source of the data.
 
